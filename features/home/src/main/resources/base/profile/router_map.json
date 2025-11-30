@@ -1,0 +1,14 @@
+{
+  "routerMap": [
+    {
+      "name": "ecy://demo/media",
+      "pageSourceFile": "src/main/ets/functions/home/demo/Media.ets",
+      "buildFunction": "MediaBuilder"
+    },
+    {
+      "name": "ecy://mine/login",
+      "pageSourceFile": "src/main/ets/functions/mine/pages/Login.ets",
+      "buildFunction": "LoginBuilder"
+    }
+  ]
+}

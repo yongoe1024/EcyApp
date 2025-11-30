@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "ecy://debug",
+      "pageSourceFile": "src/main/ets/components/DebugPage.ets",
+      "buildFunction": "DebugPageBuilder"
+    },
+  ]
+}
